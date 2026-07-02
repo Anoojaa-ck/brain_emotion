@@ -138,8 +138,11 @@ Security Notes
 - CSRF middleware is currently disabled — enable it in production.
 - Email credentials in settings.py are hardcoded — move them to environment variables.
 - DEBUG = True should be set to False in production.
+
+  
 License
 Distributed under the MIT License. See LICENSE for more information.
+
 Contact
 Team MINDTRACE — Kozhikode, Kerala, India  
 Email: projectbrain2025@gmail.com
