@@ -27,7 +27,7 @@
 
 | Tier | Technology |
 |------|-----------|
-| **Backend** | Django 6.0, Django REST Framework |
+| **Backend** | Django 6.0 |
 | **Database** | MySQL |
 | **Deep Learning** | TensorFlow / Keras (GRU), scikit-learn, SciPy, PyWavelets |
 | **NLP** | Hugging Face Transformers, PyTorch, DistilRoBERTa |
